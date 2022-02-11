@@ -1,0 +1,37 @@
+body {
+    background-image: url("forest.jpg");
+    background-color: #67847b;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+   }
+
+   footer {
+       height: 100px;
+       background-color: rgb(59, 72, 76);
+       position: fixed;
+       width: 100%;
+       left:0;
+       bottom:0;
+       text-align: left;
+
+    }
+.schoolLogo {
+    width: 30%;
+    height: 40%;
+    padding-top: 20px;
+}
+.myHub {
+    color: bisque;
+    padding-left: 15px;
+}
+.rsSchool {
+    color: bisque;
+}
+
+.content{
+    text-align: center;
+    position: relative;
+    margin-top: 30%;
+}
